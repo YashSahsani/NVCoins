@@ -12,7 +12,7 @@ $ cd NVCoins
 $ pip install virtualenv
 $ virtualenv venv
 $ source venv/bin/activate
-$ pip install -r requirments.txt
+$ pip install -r requirements.txt
 $ cd NVCoins/client
 $ python main.py (runs on localhost:8080)
 # Keep it running and in anouther terminal
