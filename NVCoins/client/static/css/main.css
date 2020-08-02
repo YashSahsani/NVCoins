@@ -5,7 +5,7 @@
 body {
 	padding-top: 54px;
 	font-family: 'Montserrat', sans-serif;
-	color: white;
+	color: black;
 	background: rgb(1,139,255);
 	background: linear-gradient(90deg, rgba(1,139,255,1) 0%, rgba(6,216,255,1) 100%);
 }
