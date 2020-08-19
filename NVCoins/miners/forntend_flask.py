@@ -11,7 +11,7 @@ blockchain = BlockC.Blockchain()
 @app.route('/')
 def disclaimer():
     return imports.render_template('./disclaimer.html')
-@app.route('/index.html')
+@app.route('/index')
 def index():
     return imports.render_template('./index.html')
 
